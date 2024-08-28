@@ -1,0 +1,4 @@
+ls -lt | grep -v '^\.' | awk '{ if( ~ /^d/) { print / } else { print  } }' | tr '
+' ',' | sed 's/,$/
+/' | sed 's/,/, /g'
+
