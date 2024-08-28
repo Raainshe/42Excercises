@@ -15,10 +15,10 @@ The 42 Heilbronn Piscine is an intensive 4-week program designed to immerse stud
 
 ## Projects
 
-### Project 1: Shell Basics
+### Project 1 - 2: Shell Basics
 
 **Description:**  
-In this project, I learned the fundamentals of shell scripting. I worked on tasks such as writing basic scripts, handling command-line arguments, and manipulating files and directories.
+In these projects, I learned the fundamentals of shell scripting. I worked on tasks such as writing basic scripts, handling command-line arguments, and manipulating files and directories.
 
 **Key Features:**
 - Basic shell script structure
@@ -28,7 +28,7 @@ In this project, I learned the fundamentals of shell scripting. I worked on task
 **Technologies Used:**  
 - Shell
 
-### Project 2: C Programming Fundamentals
+### Project 3 - 12: C Programming Fundamentals
 
 **Description:**  
 This project focused on C programming, covering essential concepts such as variables, loops, conditions, functions, and pointers. I implemented various small programs to solidify my understanding of these concepts.
